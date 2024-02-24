@@ -1,4 +1,4 @@
----
+El inicio TheOriginal---
 title: Window Management API
 slug: Web/API/Window_Management_API
 page-type: web-api-overview
