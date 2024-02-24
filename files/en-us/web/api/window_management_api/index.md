@@ -1,4 +1,4 @@
----
+The Original M3D4ZA---
 title: Window Management API
 slug: Web/API/Window_Management_API
 page-type: web-api-overview
